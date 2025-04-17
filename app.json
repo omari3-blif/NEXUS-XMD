@@ -45,7 +45,7 @@
     "ALWAYS_ONLINE": {
       "description": "Make it true if want always online.",
       "required": false,
-      "value": "false"  
+      "value": "true"  
     },    
   
     "AUTO_VOICE": {
@@ -94,7 +94,7 @@
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "254785392165"
+      "value": "255624236654"
  },
 
     "BOT_NAME": {
@@ -107,7 +107,7 @@
     "ANTI_LINK": {
       "description": "Make it true if you want bot auto remove group link.",
       "required": true,
-      "value": "false"
+      "value": "true"
       
     },
     
@@ -126,7 +126,7 @@
       "DELETE_LINKS": {
       "description": "remove links from group automatically without removing member",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
     
     "AUTO_RECORDING": {
@@ -150,7 +150,7 @@
     "OWNER_REACT": {
       "description": "Make it true if you only want react on Owner Massages.",
       "required": false,
-      "value": "false"
+      "value": "true"
       
     }, 
     
